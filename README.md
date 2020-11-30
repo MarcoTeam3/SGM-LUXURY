@@ -1,5 +1,5 @@
 # SGMLUXURY **CODING ACADEMY**
-
+ <a href="https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg">
 **Sharif, Gargani, Marco**.
 
 ## Laravel setup
