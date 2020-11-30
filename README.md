@@ -7,7 +7,7 @@
 **Marco** <br>
 
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="460" height="300" src="https://ibb.co/PW0WvZM">
 </p>
 
 ## Laravel setup
