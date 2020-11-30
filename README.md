@@ -1,11 +1,9 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-vue.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/contains-17-coffee-cups.svg)](https://forthebadge.com)
+
 
 # SGMLUXURY **CODING ACADEMY**
 
-<p style="align-text">**Sharif** </p> <br>
-**Gargani** <br>
-**Marco** <br>
+<div><p><strong>Sharif - Gargani - Marco</strong></div>
 
 <p align="center">
   <img width="460" height="300" src="https://i.postimg.cc/yYQ7pTTz/Sanzzs-titre.png">
