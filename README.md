@@ -2,7 +2,7 @@
 
 # SGMLUXURY **CODING ACADEMY**
 
-**Sharif** <br>
+<p style="align-text">**Sharif** </p> <br>
 **Gargani** <br>
 **Marco** <br>
 
