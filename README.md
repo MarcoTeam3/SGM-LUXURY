@@ -1,12 +1,16 @@
-# SGM-LUXURY
-**PROJET CODING ACADEMY**(EPITECH.EU)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-vue.svg)](https://forthebadge.com)
 
 
 # SGMLUXURY **CODING ACADEMY**
 
-**Sharif, Gargani, Marco**.
+<div><p><strong>Sharif - Gargani - Marco</strong></div>
 
-##---- Laravel setup ----##
+<p align="center">
+  <img width="460" height="300" src="https://i.postimg.cc/yYQ7pTTz/Sanzzs-titre.png">
+</p>
+
+
+## Laravel setup
 
 ### Install composer dependencies
 
@@ -29,9 +33,7 @@ Now, in the terminal run `artisan serve` command. It will run the application at
 php artisan serve
 ```
 
-If you are running the Laravel API on a different URL path, then you need to update the URL path in the `src/apis/Api.js` of the Vue.js app.
-
-##---- Vue setup ----##
+## Vue.js setup
 
 ```
 cd vue-app
