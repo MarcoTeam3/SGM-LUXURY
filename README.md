@@ -7,7 +7,7 @@
 **Marco** <br>
 
 <p align="center">
-  <img width="460" height="300" src="https://i.ibb.co/4S3SnZ2/Entreprises-Exo-Vie.jpg">
+  <img width="460" height="300" src="https://i.postimg.cc/JnZh9Bz5/Entreprises-Exo-Vie-5.png">
 </p>
 
 
