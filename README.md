@@ -33,8 +33,6 @@ Now, in the terminal run `artisan serve` command. It will run the application at
 php artisan serve
 ```
 
-If you are running the Laravel API on a different URL path, then you need to update the URL path in the `src/apis/Api.js` of the Vue.js app.
-
 ## Vue.js setup
 
 ```
