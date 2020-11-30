@@ -2,9 +2,9 @@
 
 # SGMLUXURY **CODING ACADEMY**
 
-#:beer: **Sharif** :beer:
-#:beer:**Gargani** :beer:
-#:beer: **Marco** :beer:
+**Sharif** <br>
+**Gargani** <br>
+**Marco** <br>
 
 ## Laravel setup
 
