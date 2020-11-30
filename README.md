@@ -1,5 +1,7 @@
+[![forthebadge](https://forthebadge.com/images/badges/made-with-vue.svg)](https://forthebadge.com)
+
 # SGMLUXURY **CODING ACADEMY**
-[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
+
 **Sharif, Gargani, Marco**.
 
 ## Laravel setup
